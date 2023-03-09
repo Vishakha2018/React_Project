@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div className='myclass'>
-      <h1>Welcome{1+1}</h1>
+      <h1>Welcome{1+2}</h1>
     </div>
   
   )
