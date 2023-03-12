@@ -21,12 +21,12 @@ const App = () => {
 
 
 // another component
-const MyName = () => {
-  return (
-    <div>
-      <h1>Vishakha {2+2}</h1> 
-    </div>
-  )
-}
+// const MyName = () => {
+//   return (
+//     <div>
+//       <h1>Vishakha {2+2}</h1> 
+//     </div>
+//   )
+// }
 
 export default App
