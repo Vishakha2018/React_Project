@@ -13,7 +13,7 @@ const Menu = [
       id: 2,
       image: "images/allupakoida.jpg",
       name: "allu pakoida",
-      category: "evening",
+      category: "snacks",
       price: "20₹",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
@@ -40,7 +40,7 @@ const Menu = [
       id: 5,
       image: "../images/pizza.jpg",
       name: "pizza",
-      category: "evening",
+      category: "snacks",
       price: "80₹",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
@@ -76,7 +76,7 @@ const Menu = [
       id: 9,
       image: "../images/samosa.jpg",
       name: "samaso",
-      category: "evening",
+      category: "snacks",
       price: "10₹",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
@@ -85,7 +85,7 @@ const Menu = [
         id: 10,
         image: "../images/momo.jpg",
         name: "momos",
-        category: "evening",
+        category: "snacks",
         price: "30₹",
         description:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
@@ -103,7 +103,7 @@ const Menu = [
         id: 12,
         image: "../images/pavbhaji.jpg",
         name: "Pav Bhaji",
-        category: "evening",
+        category: "breakfast",
         price: "80₹",
         description:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
@@ -112,7 +112,7 @@ const Menu = [
         id: 13,
         image: "../images/vegthali.jpg",
         name: "Veg Thali",
-        category: "lunch",
+        category: "dinner",
         price: "100₹",
         description:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
