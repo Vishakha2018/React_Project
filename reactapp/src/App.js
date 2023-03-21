@@ -1,6 +1,7 @@
 import React from 'react'
 // import Restaurant from './components/Basics/Restaurant'
-import UseState from './components/Hooks/UseState'
+// import UseState from './components/Hooks/UseState'
+import UseEffect from './components/Hooks/UseEffect'
 
 const App = () => {
   return (
@@ -9,7 +10,8 @@ const App = () => {
       {/* nested component */}
       {/* <MyName/> */}
       {/* <Restaurant/> */}
-      <UseState/>
+      {/* <UseState/> */}
+      <UseEffect/>
     </div>
   
   )
